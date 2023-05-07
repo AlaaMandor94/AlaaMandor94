@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web API, Angular**
 
-- 💬 Ask me about **ASP .Net**
+- 💬 Ask me about **Back end technology**
 
 - 📫 How to reach me **alaamandor1994@gmail.com**
 
